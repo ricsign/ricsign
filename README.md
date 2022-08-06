@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently study Computer Science at the University of Waterloo. 
+- 🔭 I’m currently a first-year Computer Science student at the University of Waterloo. 
 - 😄 Pronouns: He/Him
