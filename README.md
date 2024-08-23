@@ -4,6 +4,12 @@ I'm a **software engineer 👨‍💻** based in Waterloo, Canada. I'm currently
 
 I build solutions that make a positive impact on people's lives by leveraging the power of technologies **#tech4good** 🌎.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <br />
 
 <h3 align="left">⚙️ Tech Stack</h3>
